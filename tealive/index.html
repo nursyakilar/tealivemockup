@@ -1,0 +1,57 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tealive Mockup Landing Page</title>
+    <link rel="icon" type="image/x-icon" href="images/logo-tealive-03.png">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/465b81b1c8.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="#"><img src="images/logo-tealive-03.png" class="logo" width="150" height="40"></a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">What's New</a></li>
+                <li><a href="#">Limited Time Only</a></li>
+                <li><a href="#">About Us</a></li>
+            </ul>
+        </header>
+
+        <div class="content">
+            <div class="textBox">
+                <h3> Try our Best Seller for <span> Signature Bang Bang </span></h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta ratione ipsa culpa doloremque repudiandae, deserunt perspiciatis, sint, tempore saepe in soluta alias velit ipsam necessitatibus corrupti obcaecati odit nostrum similique. </p>
+                <a href="#"> Read More</a>
+            </div>
+            <div class="imgBox">
+                <img src="images/tealive1.png" class="tealive" width="500" height="500">
+            </div>
+        </div>
+        <ul class="thumb">
+            <li><img src="images/tealive2.png" onclick="imgSlider('images/thumb2.png')"></li>
+            <li><img src="images/tealive3.png" onclick="imgSlider ('images/thumb3.png')"></li>
+            <li><img src="images/tealive4.png" onclick="imgSlider ('images/thumb4.png')"></li>
+        </ul>
+        <ul class="sci">
+            <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+        </ul>
+
+    </section>
+
+    <script type="text/javascript">
+        function imgSlider(anything){
+            document.querySelector('.tealive').src = anything;
+        }
+
+    </script>
+    
+</body>
+</html>
