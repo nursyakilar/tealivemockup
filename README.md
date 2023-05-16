@@ -18,7 +18,4 @@
 <h1 align=center>❤ This is a Tealive Landing Page </h1>
 https://github.com/nursyakilar/tealivemockup/assets/129347382/2074784d-6538-4d52-8c08-7d7b5f28696d
 
-https://github.com/nursyakilar/tealivemockup/assets/129347382/79c2c02f-b624-405b-89c6-84411c525af3
-
-
 <hr>
