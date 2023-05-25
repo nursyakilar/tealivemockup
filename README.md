@@ -25,4 +25,3 @@
 <img src="https://github.com/nursyakilar/tealivemockup/assets/129347382/ec0319b5-362e-4424-83fa-a11b8c21088a" alt="xd" width="500" height="300"/> </a
 <img src="https://github.com/nursyakilar/tealivemockup/assets/129347382/89159971-23a4-4ecd-8dae-1393efdbd03d" alt="xd1" width="500" height="300"/> </a>
 
-![work3](https://github.com/nursyakilar/tealivemockup/assets/129347382/89159971-23a4-4ecd-8dae-1393efdbd03d)
