@@ -23,7 +23,6 @@
  <h2 align=center>❤ Tealive Landing Page Images</h2>
 <hr>
 <img src="https://github.com/nursyakilar/tealivemockup/assets/129347382/ec0319b5-362e-4424-83fa-a11b8c21088a" alt="xd" width="500" height="300"/> </a
-<img src="" alt="xd" width="500" height="300"/> </a>
-<img src="https://github.com/nursyakilar/tealivemockup/assets/129347382/ec0319b5-362e-4424-83fa-a11b8c21088a" alt="xd" width="500" height="300"/>
-
+<img src="https://github.com/nursyakilar/tealivemockup/assets/129347382/7a950d98-3ef1-49cf-a1cc-9196d6d069b2" alt="xd" width="500" height="300"/> </a>
+<img src="" alt="xd" width="500" height="300"/>
 
