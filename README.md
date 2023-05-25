@@ -22,5 +22,6 @@
    
  <h2 align=center>❤ Tealive Landing Page Images</h2>
 <hr>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<hr>
+<img src="https://github.com/nursyakilar/tealivemockup/assets/129347382/ec0319b5-362e-4424-83fa-a11b8c21088a" alt="xd" width="40" height="40"/> </a> </p>
+
+
